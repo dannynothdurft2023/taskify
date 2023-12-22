@@ -4,7 +4,7 @@ import { OrganizationSwitcher, UserButton } from "@clerk/nextjs";
 import { Button } from "@/components/ui/button";
 import { FormPopover } from "@/components/form/form-popover";
 
-import Logo from "@/components/logo";
+import Logo from "@/components/Logo";
 import { MobileSidebar } from "./mobile-sidebar";
 
 export const Navbar = () => {
